@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: eps_alpha-test_boost-mppt.PcbDoc   2016-03-09  00:28:17
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : eps_alpha-test_boost-mppt.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.406mm)                                           Round             42        PTH        8.27inch (210.18mm)
+T2      31mil (0.787mm)                                           Round             8         PTH        0.63inch (16.00mm)
+T3      35mil (0.889mm)                                           Round             4         PTH        0.79inch (20.00mm)
+T4      51mil (1.295mm)                                           Round             8         PTH        2.06inch (52.42mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        3.82inch (97.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              66
+
+Total Processing Time (hh:mm:ss) : 00:00:01

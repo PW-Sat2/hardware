@@ -1,0 +1,14 @@
+1. Zainstalowaæ Octave,
+2. Zainstalowaæ pakiet Control:
+	>> pkg install -forge control
+	Inne pakiety:
+	http://octave.sourceforge.net/packages.php
+3. £adujemy pakiet:
+	>> pkg load control
+4. Przyk³ady i sk³adnia:
+	http://www.mathworks.com/help/control/ref/tf.html
+	http://wiki.octave.org/Control_package
+5. stepplot w Octave nie dzia³a. Trzeba u¿yæ:
+	step(H)
+	impulse(H)
+	bode(H)

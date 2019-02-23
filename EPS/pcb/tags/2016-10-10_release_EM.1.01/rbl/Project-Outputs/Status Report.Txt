@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PW-Sat2_EPS_EM_Rbl.PrjPcb]
+   Generated File[PW-Sat2_EPS_EM_Rbl.TXT]
+   Generated File[PW-Sat2_EPS_EM_Rbl.LDP]
+   Generated File[PW-Sat2_EPS_EM_Rbl.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 04:32:55 On 2016-03-16

@@ -1,0 +1,8 @@
+﻿Sondy:
+yellow: LCL output - 3V3d
+cyan: local supply input voltage - 7V. Podłączenie LCL z zewnętrznego zasilacza, na ograniczeniu 0.8A. Podłączone bezpośrednio do local-supply, na filtrze wejściowym C-FB.
+magenta: pin 4 (EN) układu TPS2551
+
+Wyjście LCLa zwarto rezystorem 6.67R (wypadkowo). To jest próg, od jakiego zabezpieczenie zaczyna działać.
+
+SUPP_R1=220R.

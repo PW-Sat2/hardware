@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Programmer.PrjPcb]
+   Generated File[Programmer.GTL]
+   Generated File[Programmer.GTO]
+   Generated File[Programmer.GTS]
+   Generated File[Programmer.GM1]
+   Generated File[Programmer.RUL]
+   Generated File[Programmer.EXTREP]
+   Generated File[Programmer.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 17:12:10 On 2017/3/11
