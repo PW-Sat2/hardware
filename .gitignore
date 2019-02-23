@@ -3,7 +3,7 @@
 *.DsnWrk
 *.log
 History
-_Preview
+__Previews
 *.step
 *.PrjPcbStructure
 
