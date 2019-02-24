@@ -1,0 +1,2 @@
+I2C=SCL,SDA
+Payload bus={I2C:I2C}

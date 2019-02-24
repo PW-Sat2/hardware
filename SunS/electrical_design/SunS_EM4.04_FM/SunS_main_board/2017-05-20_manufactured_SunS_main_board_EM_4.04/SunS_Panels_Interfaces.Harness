@@ -1,0 +1,6 @@
+Panel-A=3.3V,GND,SDA-1,SCL-1,SDA-2,SCL-2,SDA-3,SCL-3,RTD
+Panel-B=3.3V,GND,SDA-1,SCL-1,SDA-2,SCL-2,SDA-3,SCL-3,RTD
+Panel-C=3.3V,GND,SDA-1,SCL-1,SDA-2,SCL-2,SDA-3,SCL-3,RTD
+Panel-D=3.3V,GND,SDA-1,SCL-1,SDA-2,SCL-2,SDA-3,SCL-3,RTD
+SunS_ALS_Interface=SDA-Panel-A-1,SDA-Panel-B-1,SDA-Panel-C-1,SDA-Panel-D-1,SCL-1,SDA-Panel-A-2,SDA-Panel-B-2,SDA-Panel-C-2,SDA-Panel-D-2,SCL-2,SDA-Panel-A-3,SDA-Panel-B-3,SDA-Panel-C-3,SDA-Panel-D-3,SCL-3
+SunS_RTD_Interface=RTD-Panel-A,RTD-Panel-B,RTD-Panel-C,RTD-Panel-D

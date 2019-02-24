@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BH1730FVC_top.SchDoc
+Record=SheetSymbol|SourceDocument=BH1730FVC_top.SchDoc|Designator=S1|SchDesignator=Repeat(S,1,3)|FileName=BH1730FVC_sensor.SchDoc|SymbolType=Normal|RawFileName=BH1730FVC_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BH1730FVC_top.SchDoc|Designator=S2|SchDesignator=Repeat(S,1,3)|FileName=BH1730FVC_sensor.SchDoc|SymbolType=Normal|RawFileName=BH1730FVC_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BH1730FVC_top.SchDoc|Designator=S3|SchDesignator=Repeat(S,1,3)|FileName=BH1730FVC_sensor.SchDoc|SymbolType=Normal|RawFileName=BH1730FVC_sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

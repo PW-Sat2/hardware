@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\pkuligowski\Dropbox\pwsat2\svn\dev\suns\pcb\trunk\SunS-main\proto_main.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=proto_main-plated.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=proto_main-nonplated.txt|DrillLayers=gtl,g2,g3,gbl

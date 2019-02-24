@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BH1730FVC_panel.PrjPcb]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.GTL]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.GBL]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.GKO]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.RUL]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.EXTREP]
+   Generated File[BH1730FVC_panel_with_PT1000_PCB.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 21:38:43 On 2016-09-07

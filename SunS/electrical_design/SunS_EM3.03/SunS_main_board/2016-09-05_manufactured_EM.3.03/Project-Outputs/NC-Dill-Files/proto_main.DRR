@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: proto_main.PcbDoc   2016-09-07  21:35:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Component Side to Solder Side
+ASCII Plated RoundHoles File : proto_main-Plated.TXT
+ASCII Non-Plated RoundHoles File : proto_main-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             66        PTH        7.83inch (198.85mm)
+T2      31mil (0.787mm)                                           Round             36        PTH        3.68inch (93.44mm)
+T3      33mil (0.838mm)                                           Round             4         PTH        0.86inch (21.94mm)
+T4      67mil (1.702mm)                                           Round             4         PTH        2.95inch (74.98mm)
+T5      35mil (0.889mm)                                           Round             36        NPTH       3.12inch (79.35mm)
+T6      39mil (0.991mm)                                           Round             4         NPTH       0.67inch (16.91mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              150
+
+Total Processing Time (hh:mm:ss) : 00:00:00
