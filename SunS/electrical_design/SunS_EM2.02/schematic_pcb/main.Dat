@@ -1,0 +1,65 @@
+Field=Comment~String~Comment~270|Field=Description~String~Description~354|Field=Designator~String~Designator~352|Field=Footprint~String~Footprint~461|Field=LibRef~String~LibRef~161|Field=Quantity~Integer~Quantity~146|Field=Value~String~Value~167|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~main.PrjPcb|ReportField=ProjectFullPath~G:\Dropbox\Space\PW-Sat\pwsat2_suns\suns_2v0_pcb\main.PrjPcb|ReportField=Title~Bill of Materials For Project [main.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~278|ReportField=ReportTime~22:36:17|ReportField=ReportDate~2015-05-24|ReportField=ReportDateTime~2015-05-24 22:36:17|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Grzegorz Gajoch|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~10|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=Model~EM1|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.73:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=4200:PaperWidth=2970:Scale=100:PaperSource=15:PrintQuality=1200:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A3:PaperIndex=8|ReportField=ProjectName~|ReportField=ResSerDig~100|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~10|ReportField=SheetTotal~16|ReportField=Time~|ReportField=Title~SunS - General Block Diagram|ReportField=VersionControl_RevNumber~|ReportField=Res~180R|ReportField=Rshunt~15|ReportField=DataSourceFileName~main.PrjPcb|ReportField=DataSourceFullPath~G:\Dropbox\Space\PW-Sat\pwsat2_suns\suns_2v0_pcb\main.PrjPcb
+0603|Capacitor|C1, C2, C8, C9|SMD_Capacitor_0603|Cap1|4|22p
+0603|Capacitor|C3, C27_RTD_interface1, C27_RTD_interface2, C28_RTD_interface1, C28_RTD_interface2, C30_RTD_interface1, C30_RTD_interface2|SMD_Capacitor_0603|Cap1, Cap, Cap, Cap, Cap, Cap, Cap|7|10n
+Tantalum|Polarized Capacitor (Radial)|C5|Tantalum_cap_D|Cap Pol1|1|10u
+0603|Capacitor|C6, C7, C10, C11, C12, C13, C14, C23_FLASH1, C23_FLASH2, C29_RTD_interface1, C29_RTD_interface2, C33, C34, C36_RTD_interface1, C36_RTD_interface2, C37_RTD_interface1, C37_RTD_interface2, C38, C39, C40, C41, C42, C45, C46, C47|SMD_Capacitor_0603|Cap1, Cap1, Cap, Cap, Cap, Cap, Cap, Cap1, Cap1, Cap, Cap, Cap, Cap, Cap1, Cap1, Cap1, Cap1, Cap1, Cap1, Cap1, Cap1, Cap1, Cap, Cap, Cap1|25|100n
+0805|Capacitor|C15|SMD_Capacitor_0805|Cap|1|100nF
+Tantalum|Polarized Capacitor (Radial)|C16, C17, C18, C19, C21, C31|Tantalum_cap_D|Cap Pol1|6|10u/50V
+0603|Capacitor|C20|SMD_Capacitor_0603|Cap|1|100nF
+Tantalum|Polarized Capacitor (Radial)|C22|Tantalum_cap_D|Cap Pol1|1|100u/10V
+1206|Capacitor|C24, C25|SMD_Capacitor_1206|Cap|2|1u
+1206|Capacitor|C26|SMD_Capacitor_1206|Cap|1|10u
+Tantalum|Polarized Capacitor (Radial)|C32|Tantalum_cap_D|Cap Pol1|1|68u/16V
+0805|Capacitor|C35|SMD_Capacitor_0805|Cap|1|1n
+Cap|Capacitor|C43_LM601, C43_LM602, C43_LM603, C43_LM604, C44_LM601, C44_LM602, C44_LM603, C44_LM604|SMD_Capacitor_0603|Cap|8|100n
+BAT165|Madium Power AF Schottky 750mA 40V Diode|D1|SOD323|BAT165|1|BAT165
+Inductor|Inductor|L1, L2|SMD_Capacitor_0805|Inductor|2|10mH
+UART|Header, 3-Pin|P1|HDR1X3|Header 3|1|
+JTAG|Header, 5-Pin, Dual row|P2|HDR2X5|Header 5X2|1|
+Sat I2C|Header, 2-Pin|P3|HDR1X2|Header 2|1|
+Sat Power|Header, 3-Pin|P4|HDR1X3|Header 3|1|
+Header 6|Header, 6-Pin|P5, P6|HDR1X6|Header 6|2|
+SOL_A|Header, 2-Pin|P7|HDR1X2|Header 2|1|
+SOL_B|Header, 2-Pin|P8|HDR1X2|Header 2|1|
+SOL_C|Header, 2-Pin|P9|HDR1X2|Header 2|1|
+SOL_D|Header, 2-Pin|P10|HDR1X2|Header 2|1|
+Header 3|Header, 3-Pin|P11, P12|HDR1X3|Header 3|2|
+0805|Resistor|R1_Current_Limit_CH0, R1_Current_Limit_CH1, R1_Current_Limit_CH2, R1_Current_Limit_CH3|SMD_Resistor_0603|Res2|4|100k
+0603|Resistor|R2_Current_Limit_CH0, R2_Current_Limit_CH1, R2_Current_Limit_CH2, R2_Current_Limit_CH3|SMD_Resistor_0603|Res2|4|500k/1%
+0603|Resistor|R3_Current_Limit_CH0, R3_Current_Limit_CH1, R3_Current_Limit_CH2, R3_Current_Limit_CH3, R30, R37, R61_RTD_interface1, R61_RTD_interface2, R62_RTD_interface1, R62_RTD_interface2, R63_RTD_interface1, R63_RTD_interface2, R87, R126, R137, R138|SMD_Resistor_0603|Res2|16|100k
+0603|Resistor|R4, R5, R6, R11, R12, R13, R14, R15, R16, R23, R24, R25, R26, R27, R28, R29, R38, R39, R40, R41, R64_RTD_interface1, R64_RTD_interface2, R65_RTD_interface1, R65_RTD_interface2, R66_RTD_interface1, R66_RTD_interface2, R70, R71, R72, R74, R84, R85, R86, R88, R89, R90, R128, R129, R130, R131, R132, R133, R134, R135, R136|SMD_Resistor_0603|Res2|45|47k
+0603|Resistor|R7, R8, R9, R10, R17, R18, R19, R20, R21, R22, R32, R58_RTD_interface1, R58_RTD_interface2, R59_RTD_interface1, R59_RTD_interface2, R60_RTD_interface1, R60_RTD_interface2, R67, R68, R69, R73, R98, R99, R101, R102, R105, R107, R108, R109, R110, R113, R114, R115, R116|SMD_Resistor_0603|Res2|34|100
+0603|Resistor|R31|SMD_Resistor_0603|Res2|1|50k
+0805|Resistor|R33, R34, R35, R36, R47|SMD_Resistor_0805|Res2|5|100k
+1206|Resistor|R42, R43, R44, R45_FLASH1, R45_FLASH2, R46, R76_RTD_interface1, R76_RTD_interface2, R111_RTD_interface1, R111_RTD_interface2, R112, R117, R118, R119, R120, R125|SMD_Resistor_1206|Res2|16|10
+0603|Resistor|R48_RTD_interface1, R48_RTD_interface2, R49_RTD_interface1, R49_RTD_interface2, R50_RTD_interface1, R50_RTD_interface2, R54_RTD_interface1, R54_RTD_interface2, R56_RTD_interface1, R56_RTD_interface2, R57_RTD_interface1, R57_RTD_interface2|SMD_Resistor_0603|Res2|12|26.1k/0.1%
+0603|Resistor|R51_RTD_interface1, R51_RTD_interface2, R77|SMD_Resistor_0603|Res2|3|1k/0.1%
+0603|Resistor|R52_RTD_interface1, R52_RTD_interface2, R53_RTD_interface1, R53_RTD_interface2, R55_RTD_interface1, R55_RTD_interface2|SMD_Resistor_0603|Res2|6|1k/1%
+0603|Resistor|R75|SMD_Resistor_0603|Res2|1|2.7k/0.1%
+0805|Resistor|R78|SMD_Resistor_0805|Res2|1|1K
+0603|Resistor|R79, R91, R92, R96|SMD_Resistor_0603|Res2|4|1K
+15R/1%|TE CONNECTIVITY  352115RFT  RESISTOR, 2512, 2W, 15R, 1%|R80, R81, R82, R83|SMD_Resistor-shunt_2512|352115RFT|4|15R/1%
+0603|Resistor|R93, R94, R95, R97, R100, R103, R104, R106|SMD_Resistor_0603|Res2|8|100R
+0603|Resistor|R121, R122|SMD_Resistor_0603|Res2|2|10
+Res2|Resistor|R123_LM601, R123_LM602, R123_LM603, R123_LM604|SMD_Resistor_0805|Res2|4|10
+Res2|Resistor|R124_LM601, R124_LM602, R124_LM603, R124_LM604|SMD_Resistor_0603|Res2|4|100k
+1206|Resistor|R127|SMD_Resistor_1206|Res2|1|10R
+Tact Switch||S1|Tact Switch 3x6|TactSwitch|1|
+AD7714YRZ|5 Channel 24-Bit Signal Conditioning Analog-to-Digital Converter with Serial, SPI Interface, 500 uA, CMOS, 3 V / 5 V, 1KSPS, -40 to +105 degC, RW-24, Pb-Free, Tube|U1|RW-24_M|AD7714YRZ|1|
+FPF2700MX|Adj over-current protection 0.4-2A, Load Switch|U2_Current_Limit_CH0, U2_Current_Limit_CH1, U2_Current_Limit_CH2, U2_Current_Limit_CH3|SOIC-8-N|FPF2700MX|4|FPF2700MX
+AT45DB641E|64-Mbit DataFlash (with Extra 2-Mbits)|U3_FLASH1, U3_FLASH2|SOIC-8-N|AT45DB641E|2|
+ATmega325PA-AU|8-bit AVR Microcontroller, 1.5-5.5V, 32KB Flash, 1KB EEPROM, 2KB SRAM, 64-pin TQFP, Industrial Grade (-40°C to 85°C)|U4|64A_N|ATmega325PA-AU|1|
+LT1963AES8-3.3#PBF|1.5 A, Low Noise, Fast Transient Response LDO Regulator, 2.1 to 20 V Vin, 3.3 V Vout, 8-pin SOIC (S8-8), -40 to 125 degC, Pb-Free|U5|LT-S8-8_N|LT1963AES8-3.3#PBF|1|
+LTC6655-2.5|0.25ppm Noise, Low Drift  Precision References|U6|MSOP-8|LTC6655-2.5|1|
+ADG709|CMOS Analog 4-Channel Multiplexer|U7_RTD_interface1, U7_RTD_interface2, U10|TSSOP16|ADG709|3|
+LTC6079|Rail-to-rail, quad operational amplifier. Library compatible with LTC608X LTC607X op-amps|U8_RTD_interface1, U8_RTD_interface2|SSOP-16|LTC6079|2|LTC6079
+LT1963AMPQ#PBF|1.5 A, Low Noise, Fast Transient Response LDO Regulator, 2.1 to 20 V Vin, Adjustable Vout, 5-pin DPAK (Q-5), -55 to 125 degC, Pb-Free|U9|LT-Q-5_N|LT1963AMPQ#PBF|1|
+PCA9515APW|Dual Bidirectional I2C Bus and SMBus Repeater, 2 Channel Width, 2.3 to 3.6 V, -40 to 85 degC, 8-pin TSSOP (PW), Green (RoHS & no Sb/Br)|U11|PW8_L|PCA9515APW|1|
+SN74LVC3G07-EP|Triple Buffer/Driver With Open-Drain Output|U12|VSSOP-8|SN74LVC3G07-EP|1|
+FM25W256|256Kb (8k x 32) SPI F-RAM|U13|SOIC-8-N|FM25W256|1|
+SN74AHC125-EP|QUADRUPLE BUS BUFFER GATE  WITH 3-STATE OUTPUTS|U14|TSSOP14_L|SN74AHC125-EP|1|
+TPS3813xxxDBV|Processor Supervisory Circuits with Window-Watchdog.|U15|SOT23-6|TPS3813xxxDBV|1|TPS3813xxxDBV
+LM60|Analog temperature sensor|U16_LM601, U16_LM602, U16_LM603, U16_LM604|SOT23-3|LM60|4|
+2.4576MHz|Resonator Ceramic|XT1|HC49U|Crystal|1|2.4576MHz
+Value|Resonator Ceramic|XT2|SMD, 5mm x 3.2mm|Crystal_SMD|1|
+2.048MHz|Crystal Oscillator|XT3|SG7050|Crystal Oscillator|1|2.048MHz

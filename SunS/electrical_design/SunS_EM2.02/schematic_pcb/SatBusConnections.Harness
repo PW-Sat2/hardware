@@ -1,0 +1,3 @@
+I2C=SCL,SDA
+Payload bus={I2C:I2C}
+Sat_Power=5V,GND
