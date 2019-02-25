@@ -17,7 +17,7 @@ NOTE: EM 1.01 utilizes solar cells intead of ambient light sensors, EM 2.02 was 
 # EGSE (Electrical Ground Support Equipment)
 
 * **SunS WiFi EGSE** - I2C to TCP/IP via WiFi adapter, suitable for **SunS EM3.03** and **SunS EM4.04/FM** - used during angular calibrations of SunS to get rid of cables between the SunS (DUT) and PC computer (data aquisition),
-* **![SunS Fixture EGSE](electrical_design/SunS_EM4.04_FM/SunS_fixture_EGSE/2017-05-manufactured_SunS_fixture_EGSE_1.01)** - used to test **SunS EM4.04/FM** firmware and hardware during assembly.
+* **[SunS Fixture EGSE](electrical_design/SunS_EM4.04_FM/SunS_fixture_EGSE/2017-05-manufactured_SunS_fixture_EGSE_1.01)** - used to test **SunS EM4.04/FM** firmware and hardware during assembly.
 
 
 # Software
