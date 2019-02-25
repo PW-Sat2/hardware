@@ -10,7 +10,7 @@ Payload board contains several important circuits for bus and payload subsystems
 * Reference Sun Sensor signal conditioning,
 * Photodiodes biasing and signal conditioning,
 * Temperature sensors (on cameras, sail container, solar panels) biasing and conditioning,
-* SADS (deployable solar panels) thermal knifes,
+* SADS (deployable solar panels) thermal knives,
 * RadFET - TID experimental sensor,
 * RBL switch,
 * Access port.
