@@ -1,0 +1,4 @@
+ADC_IN=IN-,IN+
+MUX_Control=MUX_A0,MUX_A1,MUX_EN
+Solar_Conn=SOL_A,SOL_B,SOL_C,SOL_D
+SunS_Solar_Ctrl={MUX:MUX_Control},SUNS_ON,{SOL_LCL_CH3:LCL_StatCtrl},{SOL_LCL_CH2:LCL_StatCtrl},{SOL_LCL_CH1:LCL_StatCtrl},{SOL_LCL_CH0:LCL_StatCtrl}

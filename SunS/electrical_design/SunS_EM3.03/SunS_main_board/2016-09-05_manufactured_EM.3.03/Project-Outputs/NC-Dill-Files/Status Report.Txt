@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [proto_main.PrjPcb]
+   Generated File[proto_main-Plated.TXT]
+   Generated File[proto_main-NonPlated.TXT]
+   Generated File[proto_main.LDP]
+   Generated File[proto_main.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:35:42 On 2016-09-07

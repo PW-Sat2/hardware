@@ -1,0 +1,42 @@
+Circuit: * C:\Users\HP\Dropbox\pwsat2\pwsat2_suns\suns_2v0_simulations\CD4066\CD4066_test.asc
+
+Instance "m:u1:4": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:2:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:1:2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:8": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:7": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:2:1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:u1:1:1": Length shorter than recommended for a level 1 MOSFET.
+Ignoring empty pin current: Ix(1:1)
+Ignoring empty pin current: Ix(1:2)
+Ignoring empty pin current: Ix(1:3)
+Ignoring empty pin current: Ix(1:4)
+Ignoring empty pin current: Ix(2:1)
+Ignoring empty pin current: Ix(2:2)
+Ignoring empty pin current: Ix(2:3)
+Ignoring empty pin current: Ix(2:4)
+Ignoring empty pin current: Ix(u1:2)
+.step vcc=5
+.step vcc=10
+.step vcc=15
+
+Date: Mon Apr 06 22:32:23 2015
+Total elapsed time: 1.848 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 3024
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 28
+fillins = 8
+solver = Normal
+Matrix Compiler1: 3,02 KB object code size  1.0/0.4/[0.2]
+Matrix Compiler2: 3,06 KB object code size  0.4/0.5/[0.2]
+
+

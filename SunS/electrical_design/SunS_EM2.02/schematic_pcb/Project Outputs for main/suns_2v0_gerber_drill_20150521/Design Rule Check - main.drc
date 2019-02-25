@@ -1,0 +1,77 @@
+Protel Design System Design Rule Check
+PCB File : G:\Dropbox\Space\PW-Sat\pwsat2_suns\suns_2v0_pcb\main.PcbDoc
+Date     : 2015-05-21
+Time     : 00:00:26
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 10mil, Vertical Gap = 10mil ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=39.37mil) (PreferredHoleWidth=11.811mil) (MinWidth=32mil) (MaxWidth=50mil) (PreferedWidth=32mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=300mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (InComponent('U12')),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Track (4310.158mil,1776.576mil)(4310.158mil,1824.41mil)  Top Layer and 
+                     Pad U12-1(4290.472mil,1776.576mil)  Top Layer
+   Violation between Track (4275mil,1761.418mil)(4290.158mil,1776.576mil)  Top Layer and 
+                     Pad U12-2(4310.158mil,1776.576mil)  Top Layer
+   Violation between Track (4329.842mil,1743.976mil)(4329.842mil,1765mil)  Top Layer and 
+                     Pad U12-2(4310.158mil,1776.576mil)  Top Layer
+   Violation between Track (4310.158mil,1776.576mil)(4310.158mil,1824.41mil)  Top Layer and 
+                     Pad U12-3(4329.842mil,1776.576mil)  Top Layer
+   Violation between Track (4350.552mil,1775.552mil)(4385mil,1741.104mil)  Top Layer and 
+                     Pad U12-3(4329.842mil,1776.576mil)  Top Layer
+   Violation between Track (4329.842mil,1743.976mil)(4329.842mil,1765mil)  Top Layer and 
+                     Pad U12-4(4349.528mil,1776.576mil)  Top Layer
+   Violation between Track (4310.158mil,1911.16mil)(4310.158mil,1924.726mil)  Top Layer and 
+                     Pad U12-8(4290.472mil,1902.56mil)  Top Layer
+   Violation between Track (4329.842mil,1869.412mil)(4329.842mil,1902.56mil)  Top Layer and 
+                     Pad U12-7(4310.158mil,1902.56mil)  Top Layer
+   Violation between Track (4290.158mil,1902.874mil)(4290.158mil,1969.41mil)  Top Layer and 
+                     Pad U12-7(4310.158mil,1902.56mil)  Top Layer
+   Violation between Track (4310.158mil,1911.16mil)(4310.158mil,1924.726mil)  Top Layer and 
+                     Pad U12-6(4329.842mil,1902.56mil)  Top Layer
+   Violation between Track (4349.842mil,1902.56mil)(4412.56mil,1902.56mil)  Top Layer and 
+                     Pad U12-6(4329.842mil,1902.56mil)  Top Layer
+   Violation between Track (4329.842mil,1869.412mil)(4329.842mil,1902.56mil)  Top Layer and 
+                     Pad U12-5(4349.528mil,1902.56mil)  Top Layer
+Rule Violations :12
+
+
+Violations Detected : 12
+Time Elapsed        : 00:00:02

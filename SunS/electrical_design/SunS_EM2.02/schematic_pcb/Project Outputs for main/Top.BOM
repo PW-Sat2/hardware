@@ -1,0 +1,147 @@
+Bill of Material for 
+On 2015-05-23 at 02:09:53
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0603                SMD_Capacitor_0603   37    C1, C2, C3, C6, C7, C8, C9   Capacitor            
+                                           C10, C11, C12, C13, C14, C20
+                                           C23_FLASH1, C23_FLASH2
+                                           C27_RTD_interface1
+                                           C27_RTD_interface2
+                                           C28_RTD_interface1
+                                           C28_RTD_interface2
+                                           C29_RTD_interface1
+                                           C29_RTD_interface2
+                                           C30_RTD_interface1
+                                           C30_RTD_interface2, C33, C34
+                                           C36_RTD_interface1
+                                           C36_RTD_interface2
+                                           C37_RTD_interface1
+                                           C37_RTD_interface2, C38, C39
+                                           C40, C41, C42, C45, C46, C47
+ 0603                SMD_Resistor_0603  136    R2_Current_Limit_CH0         Resistor             
+                                           R2_Current_Limit_CH1
+                                           R2_Current_Limit_CH2
+                                           R2_Current_Limit_CH3
+                                           R3_Current_Limit_CH0
+                                           R3_Current_Limit_CH1
+                                           R3_Current_Limit_CH2
+                                           R3_Current_Limit_CH3, R4, R5
+                                           R6, R7, R8, R9, R10, R11, R12
+                                           R13, R14, R15, R16, R17, R18
+                                           R19, R20, R21, R22, R23, R24
+                                           R25, R26, R27, R28, R29, R30
+                                           R31, R32, R37, R38, R39, R40
+                                           R41, R48_RTD_interface1
+                                           R48_RTD_interface2
+                                           R49_RTD_interface1
+                                           R49_RTD_interface2
+                                           R50_RTD_interface1
+                                           R50_RTD_interface2
+                                           R51_RTD_interface1
+                                           R51_RTD_interface2
+                                           R52_RTD_interface1
+                                           R52_RTD_interface2
+                                           R53_RTD_interface1
+                                           R53_RTD_interface2
+                                           R54_RTD_interface1
+                                           R54_RTD_interface2
+                                           R55_RTD_interface1
+                                           R55_RTD_interface2
+                                           R56_RTD_interface1
+                                           R56_RTD_interface2
+                                           R57_RTD_interface1
+                                           R57_RTD_interface2
+                                           R58_RTD_interface1
+                                           R58_RTD_interface2
+                                           R59_RTD_interface1
+                                           R59_RTD_interface2
+                                           R60_RTD_interface1
+                                           R60_RTD_interface2
+                                           R61_RTD_interface1
+                                           R61_RTD_interface2
+                                           R62_RTD_interface1
+                                           R62_RTD_interface2
+                                           R63_RTD_interface1
+                                           R63_RTD_interface2
+                                           R64_RTD_interface1
+                                           R64_RTD_interface2
+                                           R65_RTD_interface1
+                                           R65_RTD_interface2
+                                           R66_RTD_interface1
+                                           R66_RTD_interface2, R67, R68
+                                           R69, R70, R71, R72, R73, R74
+                                           R75, R77, R79, R84, R85, R86
+                                           R87, R88, R89, R90, R91, R92
+                                           R93, R94, R95, R96, R97, R98
+                                           R99, R100, R101, R102, R103
+                                           R104, R105, R106, R107, R108
+                                           R109, R110, R113, R114, R115
+                                           R116, R121, R122, R126, R128
+                                           R129, R130, R131, R132, R133
+                                           R134, R135, R136, R137, R138
+ 0805                SMD_Capacitor_0805    1    C35                          Capacitor            
+ 0805                SMD_Resistor_0603    4    R1_Current_Limit_CH0         Resistor             
+                                           R1_Current_Limit_CH1
+                                           R1_Current_Limit_CH2
+                                           R1_Current_Limit_CH3
+ 0805                SMD_Resistor_0805    6    R33, R34, R35, R36, R47, R78 Resistor             
+ 1206                SMD_Capacitor_1206    2    C24, C25                     Capacitor            
+ 1206                SMD_Resistor_1206   17    R42, R43, R44, R45_FLASH1    Resistor             
+                                           R45_FLASH2, R46
+                                           R76_RTD_interface1
+                                           R76_RTD_interface2
+                                           R111_RTD_interface1
+                                           R111_RTD_interface2, R112
+                                           R117, R118, R119, R120, R125
+                                           R127
+ 15R/1%              SMD_Resistor-shunt_2512    4    R80, R81, R82, R83           TE CONNECTIVITY  352115RFT  RESISTOR, 2512, 2W, 15R, 1% 
+ 2.048MHz            SG7050           1    XT3                          Crystal Oscillator   
+ 2.4576MHz           HC49U            1    XT1                          Resonator Ceramic    
+ AD7714YRZ           RW-24_M          1    U1                           5 Channel 24-Bit Signal Conditioning Analog-to-Digital Converter with Serial, SPI Interface, 500 uA, CMOS, 3 V / 5 V, 1KSPS, -40 to +105 degC, RW-24, Pb-Free, Tube 
+ ADG709              TSSOP16          3    U7_RTD_interface1            CMOS Analog 4-Channel Multiplexer 
+                                           U7_RTD_interface2, U10
+ AT45DB641E          SOIC-8-N         2    U3_FLASH1, U3_FLASH2         64-Mbit DataFlash (with Extra 2-Mbits) 
+ ATmega325PA-AU      64A_N            1    U4                           8-bit AVR Microcontroller, 1.5-5.5V, 32KB Flash, 1KB EEPROM, 2KB SRAM, 64-pin TQFP, Industrial Grade (-40°C to 85°C) 
+ BAT165              SOD323           1    D1                           Madium Power AF Schottky 750mA 40V Diode 
+ Cap                 SMD_Capacitor_0603    8    C43_LM601, C43_LM602         Capacitor            
+                                           C43_LM603, C43_LM604
+                                           C44_LM601, C44_LM602
+                                           C44_LM603, C44_LM604
+ Cap                 SMD_Capacitor_0805    1    C15                          Capacitor            
+ ESR < 0.1 Ohm       SMD_Capacitor_1206    1    C26                          Capacitor            
+ FM25W256            SOIC-8-N         1    U13                          256Kb (8k x 32) SPI F-RAM 
+ FPF2700MX           SOIC-8-N         4    U2_Current_Limit_CH0         Adj over-current protection 0.4-2A, Load Switch 
+                                           U2_Current_Limit_CH1
+                                           U2_Current_Limit_CH2
+                                           U2_Current_Limit_CH3
+ Header 3            HDR1X3           2    P11, P12                     Header, 3-Pin        
+ Header 6            HDR1X6           2    P5, P6                       Header, 6-Pin        
+ Inductor            SMD_Capacitor_0805    2    L1, L2                       Inductor             
+ JTAG                HDR2X5           1    P2                           Header, 5-Pin, Dual row 
+ LM60                SOT23-3          4    U16_LM601, U16_LM602         Analog temperature sensor 
+                                           U16_LM603, U16_LM604
+ LT1963AES8-3.3#PBF  LT-S8-8_N        1    U5                           1.5 A, Low Noise, Fast Transient Response LDO Regulator, 2.1 to 20 V Vin, 3.3 V Vout, 8-pin SOIC (S8-8), -40 to 125 degC, Pb-Free 
+ LT1963AMPQ#PBF      LT-Q-5_N         1    U9                           1.5 A, Low Noise, Fast Transient Response LDO Regulator, 2.1 to 20 V Vin, Adjustable Vout, 5-pin DPAK (Q-5), -55 to 125 degC, Pb-Free 
+ LTC6079             SSOP-16          2    U8_RTD_interface1            Rail-to-rail, quad operational amplifier. Library compatible with LTC608X LTC607X op-amps 
+                                           U8_RTD_interface2
+ LTC6655-2.5         MSOP-8           1    U6                           0.25ppm Noise, Low Drift  Precision References 
+ PCA9515APW          PW8_L            1    U11                          Dual Bidirectional I2C Bus and SMBus Repeater, 2 Channel Width, 2.3 to 3.6 V, -40 to 85 degC, 8-pin TSSOP (PW), Green (RoHS & no Sb/Br) 
+ Res2                SMD_Resistor_0603    4    R124_LM601, R124_LM602       Resistor             
+                                           R124_LM603, R124_LM604
+ Res2                SMD_Resistor_0805    4    R123_LM601, R123_LM602       Resistor             
+                                           R123_LM603, R123_LM604
+ Sat I2C             HDR1X2           1    P3                           Header, 2-Pin        
+ Sat Power           HDR1X3           1    P4                           Header, 3-Pin        
+ SN74AHC125-EP       TSSOP14_L        1    U14                          QUADRUPLE BUS BUFFER GATE  WITH 3-STATE OUTPUTS 
+ SN74LVC3G07-EP      VSSOP-8          1    U12                          Triple Buffer/Driver With Open-Drain Output 
+ SOL_A               HDR1X2           1    P7                           Header, 2-Pin        
+ SOL_B               HDR1X2           1    P8                           Header, 2-Pin        
+ SOL_C               HDR1X2           1    P9                           Header, 2-Pin        
+ SOL_D               HDR1X2           1    P10                          Header, 2-Pin        
+ Tact Switch         Tact Switch 3x6    1    S1                                                
+ Tantalum            Tantalum_cap_D    9    C5, C16, C17, C18, C19, C21  Polarized Capacitor (Radial) 
+                                           C22, C31, C32
+ TPS3813xxxDBV       SOT23-6          1    U15                          Processor Supervisory Circuits with Window-Watchdog. 
+ UART                HDR1X3           1    P1                           Header, 3-Pin        
+ Value               SMD, 5mm x 3.2mm    1    XT2                          Resonator Ceramic    

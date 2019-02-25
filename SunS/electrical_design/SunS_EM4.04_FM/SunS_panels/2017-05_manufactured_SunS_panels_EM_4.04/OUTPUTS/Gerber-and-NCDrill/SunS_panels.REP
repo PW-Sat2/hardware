@@ -1,0 +1,87 @@
+*************************************************************
+FileName = SunS_panels.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : SunS_panels.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : SunS_panels.G1
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : SunS_panels.G2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : SunS_panels.GBL
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : SunS_panels.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
