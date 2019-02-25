@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 00:41:24 On 2017-06-26
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PLD.PrjPcb]
+   Generated File[Bill of Materials-PLD.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:42:26 On 2017-06-26

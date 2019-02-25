@@ -1,0 +1,96 @@
+Protel Design System Design Rule Check
+PCB File : E:\PWSat2-SVN\pld\pfm\pcb\trunk\PLD.PcbDoc
+Date     : 2017-06-29
+Time     : 11:05:39
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(73.256mm,7.589mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(6.954mm,7.571mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(33.864mm,13.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(48.86mm,13.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(33.864mm,21.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(48.854mm,21.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(36.364mm,37.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(46.341mm,37.1mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(15.012mm,14.715mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(15.012mm,14.715mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(19.812mm,14.715mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Region (0 hole(s)) Top And Pad Free-0(19.812mm,14.715mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Track (81.682mm,14.885mm)(82.266mm,15.469mm) on Bottom And Via (81.682mm,14.885mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Track (81.301mm,32.537mm)(83.16mm,32.537mm) on Bottom And Via (81.301mm,32.462mm) from Top to Bottom 
+Rule Violations :14
+
+Processing Rule : Clearance Constraint (Gap=0.178mm) (HasFootprint('SMD_RESISTOR_ARRAY_YC124')  Or HasFootprint('MSOP-8') Or HasFootprint('VSSOP-8') Or HasFootprint('TSSOP14') Or HasFootprint('MSOP-10-M-thermal-pad')),(IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(IsText)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Track (35.353mm,63.12mm)(36.115mm,62.358mm) on Power 
+   Violation between Un-Routed Net Constraint: Net AGND Between Track (14.714mm,49.542mm)(14.714mm,53.188mm) on Top And Via (17.958mm,65.075mm) from Top to Bottom 
+   Violation between Un-Routed Net Constraint: Net AGND Between Track (14.714mm,49.542mm)(14.714mm,53.188mm) on Top And Via (17.958mm,65.075mm) from Top to Bottom 
+   Violation between Un-Routed Net Constraint: Net AGND Between Track (14.714mm,49.542mm)(14.714mm,53.188mm) on Top And Via (17.958mm,65.075mm) from Top to Bottom 
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=5.08mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5.08mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Track (10.864mm,-5.283mm)(10.864mm,-0.033mm) on Bottom Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Track (27.164mm,-5.283mm)(27.164mm,-0.033mm) on Bottom Overlay And Board Edge 
+Rule Violations :2
+
+Processing Rule : Room PC-104 Stack Connector (Bounding Region = (40.447mm, 111.313mm, 108.011mm, 122.489mm) (InComponentClass('PC-104 Stack Connector'))
+Rule Violations :0
+
+Processing Rule : Room LMT87 for supply (Bounding Region = (91.894mm, 97.421mm, 97.259mm, 101.527mm) (InComponentClass('LMT87 for supply'))
+Rule Violations :0
+
+Processing Rule : Room SunS Ref. Interface (Bounding Region = (31.369mm, 102.067mm, 54.036mm, 115.098mm) (InComponentClass('SunS Ref. Interface'))
+Rule Violations :0
+
+Processing Rule : Room Flash Memory 3 (Bounding Region = (85.75mm, 62.382mm, 94.437mm, 75.768mm) (InComponentClass('Flash Memory 3'))
+Rule Violations :0
+
+Processing Rule : Room Flash Memory 2 (Bounding Region = (95.072mm, 62.382mm, 103.759mm, 75.768mm) (InComponentClass('Flash Memory 2'))
+Rule Violations :0
+
+Processing Rule : Room FRAM Memory 2 (Bounding Region = (95.025mm, 62.66mm, 102.417mm, 73.455mm) (InComponentClass('FRAM Memory 2'))
+Rule Violations :0
+
+Processing Rule : Room FRAM Memory 1 (Bounding Region = (104.271mm, 62.66mm, 111.662mm, 73.455mm) (InComponentClass('FRAM Memory 1'))
+Rule Violations :0
+
+Processing Rule : Room FRAM Memory 3 (Bounding Region = (85.704mm, 62.66mm, 93.095mm, 73.455mm) (InComponentClass('FRAM Memory 3'))
+Rule Violations :0
+
+Processing Rule : Room Filter (Bounding Region = (81.131mm, 82.093mm, 86.338mm, 86.284mm) (InComponentClass('Filter'))
+Rule Violations :0
+
+Processing Rule : Room Flash Memory 1 (Bounding Region = (104.318mm, 62.382mm, 113.005mm, 75.768mm) (InComponentClass('Flash Memory 1'))
+Rule Violations :0
+
+Processing Rule : Room I2C Repeater for PLD (Bounding Region = (53.518mm, 82.779mm, 66.091mm, 92.583mm) (InComponentClass('I2C Repeater for PLD'))
+   Violation between Room Definition: Between SMT Small Component I8_I2C Repeater for PLD-10p/50V (31.746mm,54.001mm) on Bottom And Room I2C Repeater for PLD (Bounding Region = (53.518mm, 82.779mm, 66.091mm, 92.583mm) (InComponentClass('I2C Repeater for PLD')) 
+   Violation between Room Definition: Between SMT Small Component I9_I2C Repeater for PLD-10p/50V (31.746mm,50.953mm) on Bottom And Room I2C Repeater for PLD (Bounding Region = (53.518mm, 82.779mm, 66.091mm, 92.583mm) (InComponentClass('I2C Repeater for PLD')) 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Time Elapsed        : 00:00:20
