@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PW-Sat2_EPS_EM_Battery-Controller.PcbDoc   2016-03-20  15:06:32
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PW-Sat2_EPS_EM_Battery-Controller.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.61mm)                                            Round             33        PTH        6.25inch (158.69mm)
+T2      31mil (0.787mm)                                           Round             18        PTH        2.72inch (69.07mm)
+T3      35mil (0.889mm)                                           Round             12        PTH        3.37inch (85.70mm)
+T4      51mil (1.295mm)                                           Round             8         PTH        1.13inch (28.83mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        4.84inch (123.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

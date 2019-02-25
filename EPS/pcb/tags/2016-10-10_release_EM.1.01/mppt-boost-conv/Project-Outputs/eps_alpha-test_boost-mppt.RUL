@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\pkuligowski\Dropbox\other\inz\pcb\eps_alpha-test_boost-mppt.PcbDoc
+RuleKind=Clearance|RuleName=Polygon Bottom|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Polygon Top|Scope=Board|Minimum=19.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

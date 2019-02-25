@@ -1,0 +1,11 @@
+# Altium Designer
+*.Harness
+*.DsnWrk
+*.log
+History
+__Previews
+*.step
+*.PrjPcbStructure
+
+# Random binary files
+*.zip

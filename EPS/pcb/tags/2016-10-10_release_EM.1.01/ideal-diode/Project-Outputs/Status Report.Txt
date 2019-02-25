@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [eps_main.PrjPcb]
+   Generated File[PW-Sat2_EPS_EM_Ideal-Diode-CH0.GBL]
+   Generated File[PW-Sat2_EPS_EM_Ideal-Diode-CH0.GM1]
+   Generated File[PW-Sat2_EPS_EM_Ideal-Diode-CH0.RUL]
+   Generated File[PW-Sat2_EPS_EM_Ideal-Diode-CH0.EXTREP]
+   Generated File[PW-Sat2_EPS_EM_Ideal-Diode-CH0.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 01:41:55 On 2016-03-15

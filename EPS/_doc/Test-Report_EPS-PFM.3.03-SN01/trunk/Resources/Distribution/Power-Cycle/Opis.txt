@@ -1,0 +1,6 @@
+Power cycle. Komendę wydano przez I2C. Oscylogram z linii permanentnych:
+- yellow: 3.3V
+- cyan: 5V
+- magenta: VBAT (~7.2V)
+
+Zasilano z zasilacza zewnętrznego, podłaczonego do Y-. Napięcie 8V, ograniczenie 600mA.
