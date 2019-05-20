@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [radFET-EM1.PrjPcb]
+   Generated File[pcb.TXT]
+   Generated File[pcb.LDP]
+   Generated File[pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:40:22 On 19/12/2016
